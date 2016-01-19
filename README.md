@@ -1,2 +1,2 @@
 # EloquentJavascript
-Coding Exercises from Eloquent Javascript
+Various Javascript exercises. 
