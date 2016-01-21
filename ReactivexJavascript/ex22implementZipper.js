@@ -23,4 +23,3 @@ Array.zip = function(left, right, combinerFunction) {
 
 	return results;
 };
-		
